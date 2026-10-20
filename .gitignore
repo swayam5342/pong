@@ -1,0 +1,4 @@
+# build output
+*.img
+*.lst
+*.bin
